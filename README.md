@@ -1,4 +1,4 @@
-Forked repo from:
+Forked repo from: https://github.com/google-gemini/cookbook
 
 # Welcome to the Gemini API Cookbook
 
